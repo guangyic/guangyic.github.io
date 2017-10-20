@@ -1,6 +1,11 @@
 # Guang Yi's GitHub Page
 ---
 
+## <a href="http://guangyic.github.io/project3/"> General Assembly's Project 3 </a>
+You work for a real estate company interested in using data science to determine the best properties to buy and re-sell. Specifically, your company would like to identify the characteristics of residential houses that estimate the sale price and the cost-effectiveness of doing renovations.
+
+---
+
 ## <a href="http://guangyic.github.io/project2/"> General Assembly's Project 2 </a>
 Your hometown mayor just created a new data analysis team to give policy advice, and the administration recruited you via LinkedIn to join it. Unfortunately, due to budget constraints, for now the "team" is just you...
 
