@@ -4,6 +4,8 @@
 ## <a href="http://guangyic.github.io/project3/"> General Assembly's Project 3 </a>
 You work for a real estate company interested in using data science to determine the best properties to buy and re-sell. Specifically, your company would like to identify the characteristics of residential houses that estimate the sale price and the cost-effectiveness of doing renovations.
 
+<i> Topics covered: Linear regression, logistic regression, L1/L2 penalties (ridge/lasso) </i>
+
 ---
 
 ## <a href="http://guangyic.github.io/project2/"> General Assembly's Project 2 </a>
@@ -13,6 +15,8 @@ The mayor wants to start a new initiative to move the needle on one of two separ
 
 Also unfortunately, that is the entirety of what you've been told. And the mayor just went on a lobbyist-funded fact-finding trip in the Bahamas. In the meantime, you got your hands on two national datasets: one on SAT scores by state, and one on drug use by age. Start exploring these to look for useful patterns and possible hypotheses!
 
+<i> Topics covered: Exploratory data analysis, data cleaning, plotting </i>
+
 ---
 
 ## <a href="http://guangyic.github.io/project1/"> General Assembly's Project 1 </a>
@@ -21,6 +25,8 @@ You are an analyst at a "scrappy" online gaming company that specializes in rema
 Your boss, who runs the product development team, is convinced that Pokemon Go's fatal flaw was that you had to actually move around outside. She has design mock-ups for a new game called Pokemon Stay: in this version players still need to move, but just from website to website. Pokemon gyms are now popular online destinations, and catching Pokemon in the "wild" simply requires browsing the internet for hours in the comfort of your home.
 
 She wants you to program a prototype version of the game, and analyze the planned content to help the team calibrate the design.
+
+<i> Topics covered: Basic knowledge of statistics and python. </i>
 
 --- 
 
