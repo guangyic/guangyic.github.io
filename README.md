@@ -1,5 +1,17 @@
 # Guang Yi's GitHub Page
 ---
+## <a href="http://guangyic.github.io/projectludwig/"> General Assembly's Capstone Project </a>
+With my background in neuroscience and classical music, I latched on to the subset of people that are interested in  machine-generated music. The most important questions I wonder about are:
+1. What purpose does music serve humanity, if any? 
+2. Is music inherently human?
+	* Can a machine learn to create music?
+	* Can the music a machine composes evoke the same emotion that human music can?
+	* Can a machine learn to compose like the musical giants of the past and present? 
+		- Examples: Adele, Bach, Beethoven, Chopin, Coldplay, Gershwin, Taylor Swift
+
+<i> Topics covered: Machine learning, deep learning, neural networks, sequence-based predictions </i>
+
+---
 
 ## <a href="http://guangyic.github.io/project3/"> General Assembly's Project 3 </a>
 You work for a real estate company interested in using data science to determine the best properties to buy and re-sell. Specifically, your company would like to identify the characteristics of residential houses that estimate the sale price and the cost-effectiveness of doing renovations.
